@@ -1,0 +1,35 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore build output
+bin/
+obj/
+reqcmd.bash
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Ignore build logs and other generated files
+*.log
+*.cache
+*.bak
+*.swp
+*.tmp
+*.tmp_proj
+*.pidb
+*.userprefs
+*.dbmdl
+*.vcxproj.filters
+
+# Ignore Resharper files
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Ignore Visual Studio Code files
+.vscode/
